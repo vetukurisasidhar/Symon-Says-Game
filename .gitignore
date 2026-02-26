@@ -1,0 +1,13 @@
+# Node modules (if you later add a package.json)
+node_modules/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+
+# Images (uncomment if you don't want to track them)
+# *.png
+# *.jpeg
