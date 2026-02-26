@@ -1,49 +1,31 @@
-# Simple Web Project
+# Symon Says Game 🎮
 
-This repository contains a small web project with the following files:
+This repository contains a simple web-based Symon Says memory game built using HTML, CSS, and JavaScript.
 
-- `index.html` &ndash; basic HTML page
-- `app.js` &ndash; JavaScript logic
-- `style.css` &ndash; styles for the page
-- image assets (`*.png`, `*.jpeg`)
+## 📁 Project Files
 
-## Getting Started
+- index.html – Main HTML structure of the game  
+- style.css – Styling and layout  
+- app.js – Game logic and interactions  
 
-1. Clone or download the repository to your machine.
-2. Open `index.html` in a browser or serve the folder using a simple HTTP server (e.g. `npx http-server`).
+## 🚀 How to Run the Project
 
-## Pushing to GitHub
+1. Clone or download this repository.
+2. Open the project folder.
+3. Double-click on `index.html` to open it in your browser.
+4. Start playing the game!
 
-To add this project to GitHub, install Git, then run the following from the project root:
+## 🌐 Live Demo
 
-```bash
-# initialize a new local repository
-cd /path/to/JS
-git init
+https://vetukurisasidhar.github.io/Symon-Says-Game/
 
-# add remote (change URL to your repo)
-git remote add origin https://github.com/vetukurisasidhar/first-one.git
+## 🛠 Technologies Used
 
-# stage and commit files
-git add .
-git commit -m "Initial commit"
+- HTML  
+- CSS  
+- JavaScript  
 
-# push master/main branch
-git push -u origin main
-```
+## 👨‍💻 Author
 
-If you already have a repository on GitHub you can update the `origin` URL accordingly.
-
-## .gitignore
-
-Images, OS files and node modules (if applicable) can be ignored:
-
-```
-# ignore image assets if they are large
-*.png
-*.jpeg
-
-# Mac/Windows system files
-.DS_Store
-Thumbs.db
-```
+Sasidhar  
+GitHub: https://github.com/vetukurisasidhar
